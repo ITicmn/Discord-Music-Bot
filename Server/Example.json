@@ -1,0 +1,10 @@
+{
+    "Example": {
+        "queue": [],
+        "playlist": {},
+        "repeat": false,
+        "autoplay": false
+    }
+}
+//{song name:{"length":length,"artist":artist,"url":url,"file",file location}}
+//playlist name: []
