@@ -1,0 +1,45 @@
+{
+    "Chinese":{
+        "join":{
+            "normal":"已加入",
+            "no vc":"你必須處在通話裡才可邀請我進去",
+            "already in":"早已加入"
+        },
+        "play":{
+            "play":"正在播放",
+            "already play":"已被加入到",
+            "no vc":"你必須處在通話裡才可邀請我進去",
+            "already in":"早已加入"
+        },
+        "playfile":{},
+        "leave":{},
+        "pause":{},
+        "resume":{},
+        "skip":{},
+        "back":{},
+        "jump":{},
+        "delete":{},
+        "replay":{},
+        "nowplay":{},
+        "loop":{},
+        "autoplay":{},
+        "lyrics":{},
+        "removedupe":{},
+        "shuffle":{},
+        "queue":{},
+        "clear":{},
+        "playlist create":{},
+        "playlist add":{},
+        "playlist clear":{},
+        "playlist delete":{},
+        "playlist remove":{},
+        "playlist play":{},
+        "playlist shuffle":{},
+        "playlist removedupe":{},
+        "playlist show":{},
+        "playlist showall":{},
+        "queue extract":{},
+        "song extract":{}
+    },
+    "English":{}
+}
